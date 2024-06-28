@@ -1,0 +1,4 @@
+name: RandomRespawn
+version: '${version}'
+main: org.example.pluhin.randomrespawn.RandomRespawn
+api-version: '1.21'
